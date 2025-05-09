@@ -1,0 +1,23 @@
+# === SPRING BOOT BACKEND ===
+/backend/target/
+/backend/.mvn/
+/backend/.idea/
+/backend/*.iml
+/backend/*.log
+/backend/logs/
+/backend/.DS_Store
+/backend/Thumbs.db
+/backend/application-*.yml
+/backend/application-*.properties
+
+# === VUEJS FRONTEND ===
+/frontend/node_modules/
+/frontend/dist/
+/frontend/coverage/
+/frontend/*.env
+/frontend/.env.*
+/frontend/.vscode/
+/frontend/.idea/
+/frontend/*.log
+/frontend/.DS_Store
+/frontend/Thumbs.db
